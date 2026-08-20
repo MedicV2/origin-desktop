@@ -2,7 +2,7 @@
   <img src="assets/icon.png" alt="Origin Desktop" width="112">
 </p>
 
-# Origin Desktop
+# Origin Desktop for Cursor
 
 The [GitHub Desktop](https://desktop.github.com/)-style Git client for **[Cursor Origin](https://cursor.com/docs/origin)**.
 
