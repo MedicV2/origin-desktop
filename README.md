@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="assets/icon.png" alt="Origin Desktop" width="112">
+</p>
+
 # Origin Desktop
 
 The [GitHub Desktop](https://desktop.github.com/)-style Git client for **[Cursor Origin](https://cursor.com/docs/origin)**.
 
 Cursor Origin is Cursor’s git forge (`origin.cursor.com`). Origin Desktop is the desktop app for those repos: clone, commit, branch, push, pull, and open pull requests, signed in with your Cursor account.
+
+<p align="center">
+  <img src="docs/images/changes.png" alt="Origin Desktop reviewing local changes" width="920">
+</p>
 
 ```sh
 npm install
@@ -17,6 +25,14 @@ origin auth login
 ```
 
 `npm start` loads the production renderer. For a live renderer, `npm run dev`. Windows package: `npm run pack`.
+
+## History
+
+Review commits, then open a file in the diff pane. The file list above the diff collapses and resizes.
+
+<p align="center">
+  <img src="docs/images/history.png" alt="Origin Desktop history and commit diff" width="920">
+</p>
 
 ## Cursor Origin
 
